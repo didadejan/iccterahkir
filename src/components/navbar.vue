@@ -68,7 +68,7 @@ defineProps({
 <template>
 <header :class="color" class="bg-teal-200 w-full flex h-[60px] items-center gap-x-6 px-6 sticky top-0">
     <figure>
-        <figcaption><img src="../assets/4.png.crdownload" width="50" alt=""></figcaption>
+        <figcaption><img src="../assets/3.png" width="50" alt=""></figcaption>
     </figure>
     <nav class="flex justify-between items-center w-full">
         <div class="flex gap-x-4">
